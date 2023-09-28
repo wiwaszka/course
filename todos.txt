@@ -1,4 +1,1 @@
-play
-study
-run
-redo
+task 1
